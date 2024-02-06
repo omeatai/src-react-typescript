@@ -80,6 +80,8 @@ npm start
 
 # Event Props
 
+[https://github.com/omeatai/project-typescript-1/commit/da80eec7f0515480c6a6fd8db942407104f491fa](https://github.com/omeatai/project-typescript-1/commit/da80eec7f0515480c6a6fd8db942407104f491fa)
+
 <img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-1/assets/32337103/defe6b2a-2c39-4185-980a-54b2637a71fb">
 <img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-1/assets/32337103/3c36ae4c-d2bd-4375-b457-29d9e90b247a">
 <img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-1/assets/32337103/e43460b0-f4e9-4422-a191-473a1f791cfc">
