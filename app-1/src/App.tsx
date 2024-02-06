@@ -3,6 +3,7 @@ import { Greet } from "./components/Greet";
 import { Person } from "./components/Person";
 import { PersonList } from "./components/PersonList";
 import { Status } from "./components/Status";
+import { Oscar } from "./components/Oscar";
 import { Heading } from "./components/Heading";
 
 function App() {
@@ -32,7 +33,9 @@ function App() {
       <Person name={personName} />
       <PersonList names={nameList} />
       <Status status="loading" />
-      <Heading>Hello World</Heading>
+      <Oscar>
+        <Heading> Oscar goes to the children component</Heading>
+      </Oscar>
     </div>
   );
 }
