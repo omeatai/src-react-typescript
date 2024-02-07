@@ -86,6 +86,41 @@ npm start
 <img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-1/assets/32337103/e43460b0-f4e9-4422-a191-473a1f791cfc">
 <img width="1390" alt="image" src="https://github.com/omeatai/project-typescript-1/assets/32337103/4e32a18b-4e40-448c-8c28-836397a8c160">
 
+# #END</details>
+
+<details>
+<summary>7. Style Props </summary>
+
+# Style Props
+
+[https://github.com/omeatai/project-typescript-src/commit/2f7daf0e608488c33092ea5d378069ca15dcb20d](https://github.com/omeatai/project-typescript-src/commit/2f7daf0e608488c33092ea5d378069ca15dcb20d)
+
+<img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/e3dfff0c-50a6-45e8-abb4-ae6a39de976d">
+<img width="1136" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/237c8f2f-94e8-4a23-9017-6ffedd74c86d">
+<img width="1468" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/fc850ea1-6124-4679-841e-e69e0dbb055e">
+
+# #END</details>
+
+<details>
+<summary>8. Separating Types </summary>
+
+# Separating Types
+
+https://github.com/omeatai/project-typescript-src/commit/8ad222f254bb898dda68cfaafe06f4489bd29fed
+
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/95337540-20a1-46d6-b2ea-076ab7e8b8e6">
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/389e5c8d-bfc6-46f6-8d32-90e641f4ba2c">
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/49e027d6-e223-47c4-9be4-0125408dbcaf">
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/11e4d34c-800c-4dda-bf24-f0590cb9fcc7">
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/8f3a1f8b-340d-4f68-8f33-78e30769a2e8">
+
+# #END</details>
+
+<details>
+<summary>9. useState Hook </summary>
+
+# useState Hook
+
 ```ts
 
 ```
