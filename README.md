@@ -1,4 +1,4 @@
-# Typescript Projects
+# React & Typescript Projects
 
 <details>
 <summary>1. Introduction </summary>
