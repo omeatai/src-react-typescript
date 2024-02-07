@@ -102,9 +102,9 @@ npm start
 # #END</details>
 
 <details>
-<summary>8. Grouping Types </summary>
+<summary>8. Separating Types </summary>
 
-# Grouping Types
+# Separating Types
 
 https://github.com/omeatai/project-typescript-src/commit/8ad222f254bb898dda68cfaafe06f4489bd29fed
 
