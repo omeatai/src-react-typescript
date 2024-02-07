@@ -1,6 +1,6 @@
 import "./App.css";
-import { Button } from "./components/Button";
-import { Input } from "./components/Input";
+import { Button } from "../../app-2/src/components/Button";
+import { Input } from "../../app-2/src/components/Input";
 
 function App() {
   return (
