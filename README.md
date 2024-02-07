@@ -121,6 +121,18 @@ https://github.com/omeatai/project-typescript-src/commit/8ad222f254bb898dda68cfa
 
 # useState Hook
 
+[https://github.com/omeatai/project-typescript-src/commit/2c78af9b23aa7f5847815680643c4f8972a83508](https://github.com/omeatai/project-typescript-src/commit/2c78af9b23aa7f5847815680643c4f8972a83508)
+
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/bddb6e8d-545a-4879-9fac-025c5b1c5faf">
+<img width="1065" alt="image" src="https://github.com/omeatai/project-typescript-src/assets/32337103/acd9fbc2-01a8-4606-ad4e-1fb137c84243">
+
+# #END</details>
+
+<details>
+<summary>10. useReducer Hook </summary>
+
+# useReducer Hook
+
 ```ts
 
 ```
