@@ -20,9 +20,7 @@ npm start
 
 # #END</details>
 
-```ts
-
-```
+<details>
 
 ```ts
 
@@ -104,4 +102,8 @@ npm start
 
 ```
 
-</details>
+```ts
+
+```
+
+# #END</details>
