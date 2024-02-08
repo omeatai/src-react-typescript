@@ -1,10 +1,10 @@
 import "./App.css";
-import Message from "./components/Message";
+import EventBind from "./components/EventBind";
 
 function App() {
   return (
     <div className="App">
-      <Message name="James Harden" />
+      <EventBind />
     </div>
   );
 }
