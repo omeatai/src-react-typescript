@@ -72,6 +72,15 @@ npm start
 
 # Class Component - React State
 
+[https://github.com/omeatai/src-react-typescript/commit/f1fe7852addca740eaffe7f948d253bca6e3b026](https://github.com/omeatai/src-react-typescript/commit/f1fe7852addca740eaffe7f948d253bca6e3b026)
+
+# #END</details>
+
+<details>
+<summary>8. Class Component - Binding Event handlers </summary>
+
+# Class Component - Binding Event handlers
+
 ```ts
 
 ```
