@@ -1,10 +1,12 @@
 import "./App.css";
-import Hello from "./components/Hello";
+import GreetClass from "./components/GreetClass";
 
 function App() {
   return (
     <div className="App">
-      <Hello />
+      <GreetClass name="Bruce" />
+      <GreetClass name="Alex" />
+      <GreetClass name="John" />
     </div>
   );
 }
