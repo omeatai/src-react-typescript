@@ -50,9 +50,27 @@ npm start
 # #END</details>
 
 <details>
-<summary>5. React Props </summary>
+<summary>5. Class Component - React Props </summary>
 
-# React Props
+# Class Component - React Props
+
+[https://github.com/omeatai/src-react-typescript/commit/12e134fb2643d5c61c8e7214ac8dd6ea52964dc7](https://github.com/omeatai/src-react-typescript/commit/12e134fb2643d5c61c8e7214ac8dd6ea52964dc7)
+
+# #END</details>
+
+<details>
+<summary>6. Class Component - React Children Props </summary>
+
+# Class Component - React Children Props
+
+[https://github.com/omeatai/src-react-typescript/commit/67be7823765adb27b9537acac52d971787833cbb](https://github.com/omeatai/src-react-typescript/commit/67be7823765adb27b9537acac52d971787833cbb)
+
+# #END</details>
+
+<details>
+<summary>7. Class Component - React State </summary>
+
+# Class Component - React State
 
 ```ts
 
