@@ -1,26 +1,27 @@
 # React & Typescript Projects - src
 
-+Codevolution
++Codevolution - React
 
 <details>
-<summary>1. Introduction </summary>
+<summary>1. Create React App </summary>
 
-# Create React app with Typescript
+# Create React App
 
 ```ts
-npx create-react-app app-1 --template typescript
+npx create-react-app ce-react
 ```
 
 # start app
 
 ```ts
-cd app-1
+cd ce-react
 npm start
 ```
 
 # #END</details>
 
 <details>
+<summary>2. Create React App </summary>
 
 ```ts
 
