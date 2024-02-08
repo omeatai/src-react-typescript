@@ -41,9 +41,18 @@ npm start
 # #END</details>
 
 <details>
-<summary>4. Class Component - </summary>
+<summary>4. JSX to React.createElement </summary>
 
-# Class Component -
+# JSX to React.createElement
+
+[https://github.com/omeatai/src-react-typescript/commit/52eb43c6c276e56cfa0acf58c2bff143d35b2472](https://github.com/omeatai/src-react-typescript/commit/52eb43c6c276e56cfa0acf58c2bff143d35b2472)
+
+# #END</details>
+
+<details>
+<summary>5. React Props </summary>
+
+# React Props
 
 ```ts
 
