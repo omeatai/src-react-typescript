@@ -90,6 +90,15 @@ npm start
 
 # Class Component - Methods as Props
 
+[https://github.com/omeatai/src-react-typescript/commit/994bef05f6597b3b78a714058fd07982e6816dde](https://github.com/omeatai/src-react-typescript/commit/994bef05f6597b3b78a714058fd07982e6816dde)
+
+# #END</details>
+
+<details>
+<summary>10. Class Component - Conditional Rendering </summary>
+
+# Class Component - Conditional Rendering
+
 ```ts
 
 ```
