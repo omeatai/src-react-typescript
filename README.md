@@ -81,6 +81,15 @@ npm start
 
 # Class Component - Binding Event handlers
 
+[https://github.com/omeatai/src-react-typescript/commit/46156fa829474998f4d819233eab15ba907dc4c7](https://github.com/omeatai/src-react-typescript/commit/46156fa829474998f4d819233eab15ba907dc4c7)
+
+# #END</details>
+
+<details>
+<summary>9. Class Component - Methods as Props </summary>
+
+# Class Component - Methods as Props
+
 ```ts
 
 ```
