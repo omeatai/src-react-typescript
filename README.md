@@ -108,6 +108,15 @@ npm start
 
 # Class Component - Styling and CSS
 
+[https://github.com/omeatai/src-react-typescript/commit/23a5ee670ad1f71b55c7d17599dd7ed8f1156403](https://github.com/omeatai/src-react-typescript/commit/23a5ee670ad1f71b55c7d17599dd7ed8f1156403)
+
+# #END</details>
+
+<details>
+<summary>12. Class Component - Form Handling </summary>
+
+# Class Component - Form Handling
+
 ```ts
 
 ```
