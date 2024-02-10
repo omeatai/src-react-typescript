@@ -1,10 +1,10 @@
 import "./App.css";
-import NameList from "./components/NameList";
+import Styling from "./components/Styling";
 
 function App() {
   return (
     <div className="App">
-      <NameList />
+      <Styling isPrimary={true} />
     </div>
   );
 }
