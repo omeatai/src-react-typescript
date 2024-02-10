@@ -1,4 +1,4 @@
-# React & Typescript Projects - src
+# React & Typescript - src
 
 +Codevolution - React
 
