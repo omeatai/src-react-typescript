@@ -10,6 +10,12 @@ class LifeCycle extends Component {
     console.log("LifeCycleA constructor");
   }
 
+  changeState = () => {
+    this.setState({
+      name: "Bob",
+    });
+  };
+
   static getDerivedStateFromProps(props, state) {
     console.log("LifecycleA getDerivedStateFromProps");
     return null;
@@ -19,9 +25,28 @@ class LifeCycle extends Component {
     console.log("LifecycleA componentDidMount");
   }
 
+  shouldComponentUpdate() {
+    console.log("LifecycleA shouldComponentUpdate");
+    return true;
+  }
+
+  getSnapshotBeforeUpdate(prevProps, prevState) {
+    console.log("LifecycleA getSnapshotBeforeUpdate");
+    return null;
+  }
+
+  componentDidUpdate() {
+    console.log("LifecycleA componentDidUpdate");
+  }
+
   render() {
     console.log("LifecycleA render");
-    return <div>Lifecycle A</div>;
+    return (
+      <div>
+        <h1>Lifecycle A</h1>
+        <button onClick={this.changeState}>Change State</button>
+      </div>
+    );
   }
 }
 
