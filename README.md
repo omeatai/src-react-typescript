@@ -151,9 +151,9 @@ npm start
 # Component Lifecycle Methods - Updating
 
 - static getDerivedStateFromProps( props, state):
-  Method is called every time a component is re-rendered
-  Set the state
-  Do not cause side effects. Ex: HTTP requests
+- Method is called every time a component is re-rendered
+- Set the state
+- Do not cause side effects. Ex: HTTP requests
 
 - shouldComponentUpdate( nextProps, nextState): 
   Dictates if the component should re-render or not
