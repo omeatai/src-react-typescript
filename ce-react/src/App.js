@@ -1,10 +1,10 @@
 import "./App.css";
-import Styling from "./components/Styling";
+import FormHandling from "./components/FormHandling";
 
 function App() {
   return (
     <div className="App">
-      <Styling isPrimary={true} />
+      <FormHandling />
     </div>
   );
 }
