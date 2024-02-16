@@ -131,6 +131,12 @@ npm start
 
 # Component Lifecycle Methods - Mounting 
 
+### Mounting Lifecycle Methods
+- constructor ( props): Invoked immediately after a component and all its children components have been rendered to the DOM.
+- static getDerivedStateFromProps (props, state): Cause side effects. Ex: Interact with the DOM or perform any ajax calls to load data.
+- render()
+- componentDidMount()
+
 
 ```ts
 
