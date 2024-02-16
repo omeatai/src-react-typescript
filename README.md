@@ -150,6 +150,8 @@ npm start
 
 # Component Lifecycle Methods - Updating
 
+[https://github.com/omeatai/src-react-typescript/commit/6bbda5bbe6045084eea9244ee73ee1dd8cdc0629](https://github.com/omeatai/src-react-typescript/commit/6bbda5bbe6045084eea9244ee73ee1dd8cdc0629)
+
 ### 1. static getDerivedStateFromProps( props, state):
 - Method is called every time a component is re-rendered
 - Set the state
@@ -176,6 +178,42 @@ npm start
 ### 5. componentDidUpdate(prevProps, prevState, snapshot):
 - Called after the render is finished in the re-render cycles
 - Cause side effects
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/3bbaecf7-8039-405e-8868-96cbfd5c8506">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/46b19581-7863-4486-8249-1b7c85aa8920">
+<img width="1442" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/8d7a8d2d-8d0c-493d-bd98-eb8b7ec012ff">
+<img width="1442" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/4c0d2c46-fa79-410d-aa0f-22725b012055">
+
+# #END</details>
+
+<details>
+<summary>15. Component Lifecycle Methods - Unmounting </summary>
+
+# Component Lifecycle Methods - Unmounting
+
+### componentWillUnmount()
+  
+- Method is invoked immediately before a component is unmounted and destroyed.
+- Cancelling any network requests, removing event handlers, cancelling any subscriptions and also invalidating timers.
+- Do not call the setState method.
+
+# #END</details>
+
+<details>
+<summary>16. Component Lifecycle Methods - Error Handling Phase </summary>
+
+# Component Lifecycle Methods - Error Handling Phase
+
+- static getDerivedStateFromError(error)
+- componentDidCatch(error, info)
+- called when there is an error either during rendering, in a lifecycle method, or in the constructor of any child component.
+
+# #END</details>
+
+<details>
+<summary>17. React Fragments </summary>
+
+# React Fragments
 
 ```ts
 
