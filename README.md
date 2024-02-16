@@ -134,8 +134,8 @@ npm start
 [https://github.com/omeatai/src-react-typescript/commit/65b9bfe7160dd954026c7e4b013078a8b32ab021](https://github.com/omeatai/src-react-typescript/commit/65b9bfe7160dd954026c7e4b013078a8b32ab021)
 
 ### Mounting Lifecycle Methods
-- constructor ( props): Invoked immediately after a component and all its children components have been rendered to the DOM.
-- static getDerivedStateFromProps (props, state): Cause side effects. Ex: Interact with the DOM or perform any ajax calls to load data.
+- constructor( props): Invoked immediately after a component and all its children components have been rendered to the DOM.
+- static getDerivedStateFromProps(props, state): Cause side effects. Ex: Interact with the DOM or perform any ajax calls to load data.
 - render()
 - componentDidMount()
 
@@ -149,6 +149,33 @@ npm start
 <summary>14. Component Lifecycle Methods - Updating </summary>
 
 # Component Lifecycle Methods - Updating
+
+- static getDerivedStateFromProps( props, state):
+  Method is called every time a component is re-rendered
+  Set the state
+  Do not cause side effects. Ex: HTTP requests
+
+- shouldComponentUpdate( nextProps, nextState): 
+  Dictates if the component should re-render or not
+  Performance optimization
+  Do not cause side effects. Ex: HTTP requests
+  Calling the setState method
+
+- render():
+  Only required method
+  static getDerivedStateFromProps( props, state) 
+  Read props & state and return JSX
+  Do not change state or interact with DOM or make ajax calls.
+
+- getSnapshotBeforeUpdate(prevProps, prevState):
+  Called right before the changes from the virtual DOM are to be reflected in the DOM
+  Capture some information from the DOM
+  Method will either return null or return a value.
+  Returned value will be passed as the third parameter to the next method.
+
+- componentDidUpdate(prevProps, prevState, snapshot):
+  Called after the render is finished in the re-render cycles
+  Cause side effects
 
 ```ts
 
