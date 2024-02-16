@@ -117,9 +117,20 @@ npm start
 
 # Class Component - Form Handling
 
-```ts
+[https://github.com/omeatai/src-react-typescript/commit/942c546b2fb05754a01cfcd3041d84a0f407a587](https://github.com/omeatai/src-react-typescript/commit/942c546b2fb05754a01cfcd3041d84a0f407a587)
 
-```
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/05966422-fbb0-4515-960d-93f4c83646cc">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/fc9b5e0e-68db-413f-bd6d-6cb37cbb5e5e">
+<img width="1442" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/2b4d390d-a3c1-41f5-972d-8b07d8ed31ef">
+<img width="1442" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/42db1e70-1dc9-4c69-a2ab-77bb19a60c01">
+
+# #END</details>
+
+<details>
+<summary>13. Component Lifecycle Methods - Mounting </summary>
+
+# Component Lifecycle Methods - Mounting 
+
 
 ```ts
 
