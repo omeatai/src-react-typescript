@@ -204,7 +204,7 @@ npm start
 
 # Component Lifecycle Methods - Error Handling Phase
 
-- static getDerivedStateFromError(error)
+### static getDerivedStateFromError(error)
 - componentDidCatch(error, info)
 - called when there is an error either during rendering, in a lifecycle method, or in the constructor of any child component.
 
