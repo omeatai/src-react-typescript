@@ -131,12 +131,24 @@ npm start
 
 # Component Lifecycle Methods - Mounting 
 
+[https://github.com/omeatai/src-react-typescript/commit/65b9bfe7160dd954026c7e4b013078a8b32ab021](https://github.com/omeatai/src-react-typescript/commit/65b9bfe7160dd954026c7e4b013078a8b32ab021)
+
 ### Mounting Lifecycle Methods
 - constructor ( props): Invoked immediately after a component and all its children components have been rendered to the DOM.
 - static getDerivedStateFromProps (props, state): Cause side effects. Ex: Interact with the DOM or perform any ajax calls to load data.
 - render()
 - componentDidMount()
 
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/c8930b5f-6b55-47c2-8e6e-d458f153040e">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/262065b1-d47d-4177-b150-d54d2f5bb510">
+<img width="1442" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/d2701528-9c32-4dcf-8c12-d645e03247ad">
+
+# #END</details>
+
+<details>
+<summary>14. Component Lifecycle Methods - Updating </summary>
+
+# Component Lifecycle Methods - Updating
 
 ```ts
 
