@@ -211,9 +211,9 @@ npm start
 # #END</details>
 
 <details>
-<summary>17. React Fragments </summary>
+<summary>17. Pure Components </summary>
 
-# React Fragments
+# Pure Components
 
 ```ts
 
