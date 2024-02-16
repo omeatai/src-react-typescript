@@ -155,27 +155,27 @@ npm start
 - Set the state
 - Do not cause side effects. Ex: HTTP requests
 
-- shouldComponentUpdate( nextProps, nextState): 
-  Dictates if the component should re-render or not
-  Performance optimization
-  Do not cause side effects. Ex: HTTP requests
-  Calling the setState method
+### 2. shouldComponentUpdate( nextProps, nextState): 
+- Dictates if the component should re-render or not
+- Performance optimization
+- Do not cause side effects. Ex: HTTP requests
+- Calling the setState method
 
-- render():
-  Only required method
-  static getDerivedStateFromProps( props, state) 
-  Read props & state and return JSX
-  Do not change state or interact with DOM or make ajax calls.
+### 3. render():
+- Only required method
+- static getDerivedStateFromProps( props, state) 
+- Read props & state and return JSX
+- Do not change state or interact with DOM or make ajax calls.
 
-- getSnapshotBeforeUpdate(prevProps, prevState):
-  Called right before the changes from the virtual DOM are to be reflected in the DOM
-  Capture some information from the DOM
-  Method will either return null or return a value.
-  Returned value will be passed as the third parameter to the next method.
+### 4. getSnapshotBeforeUpdate(prevProps, prevState):
+- Called right before the changes from the virtual DOM are to be reflected in the DOM
+- Capture some information from the DOM
+- Method will either return null or return a value.
+- Returned value will be passed as the third parameter to the next method.
 
-- componentDidUpdate(prevProps, prevState, snapshot):
-  Called after the render is finished in the re-render cycles
-  Cause side effects
+### 5. componentDidUpdate(prevProps, prevState, snapshot):
+- Called after the render is finished in the re-render cycles
+- Cause side effects
 
 ```ts
 
