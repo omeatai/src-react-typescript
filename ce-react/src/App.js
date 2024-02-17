@@ -1,10 +1,10 @@
 import "./App.css";
-import LifeCycle from "./components/LifeCycle";
+import ParentComp from "./components/ParentComp";
 
 function App() {
   return (
     <div className="App">
-      <LifeCycle />
+      <ParentComp />
     </div>
   );
 }
