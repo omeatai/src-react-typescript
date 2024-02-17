@@ -215,6 +215,21 @@ npm start
 
 # Pure Components
 
+[https://github.com/omeatai/src-react-typescript/commit/0a4cc6251228e6de7f521985b8bdaa4354849087](https://github.com/omeatai/src-react-typescript/commit/0a4cc6251228e6de7f521985b8bdaa4354849087)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/ddfb9d1f-7c40-4b12-bc7a-78b3497a3b4b">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/cbc654e1-d406-4188-bfb6-992c26ae9b53">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/7b449227-2c22-4856-9934-0708b5cf3d72">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/8d937dec-0196-4db6-b50a-e53c8c369828">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/42327bf0-c589-4cc2-bb34-43a57aa6b6be">
+
+# #END</details>
+
+<details>
+<summary>18. React.memo </summary>
+
+# React.memo 
+
 ```ts
 
 ```
