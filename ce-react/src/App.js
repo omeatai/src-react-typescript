@@ -1,10 +1,10 @@
 import "./App.css";
-import FRefParent from "./components/FRefParent";
+import PortalComp from "./components/PortalComp";
 
 function App() {
   return (
     <div className="App">
-      <FRefParent />
+      <PortalComp />
     </div>
   );
 }
