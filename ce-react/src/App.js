@@ -1,10 +1,19 @@
 import "./App.css";
-import PortalComp from "./components/PortalComp";
+import ErrorBoundary from "./components/ErrorBoundary";
+import ErrorPerson from "./components/ErrorPerson";
 
 function App() {
   return (
     <div className="App">
-      <PortalComp />
+      <ErrorBoundary>
+        <ErrorPerson name="John" />
+      </ErrorBoundary>
+      <ErrorBoundary>
+        <ErrorPerson name="James" />
+      </ErrorBoundary>
+      <ErrorBoundary>
+        <ErrorPerson name="error" />
+      </ErrorBoundary>
     </div>
   );
 }
