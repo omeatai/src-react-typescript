@@ -230,6 +230,35 @@ npm start
 
 # React.memo 
 
+[https://github.com/omeatai/src-react-typescript/commit/1b8ef02bfac436662b2821a72bcb7c88f339aaf2](https://github.com/omeatai/src-react-typescript/commit/1b8ef02bfac436662b2821a72bcb7c88f339aaf2)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/5ab16d28-094f-4340-a2a9-c321054a910f">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/bde9f689-9d60-4a4e-beb9-3173470f1212">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/ed870c1a-7783-4239-97ca-ceb825977331">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/3e8bd384-4937-4a65-a1ef-d970968d6779">
+
+# #END</details>
+
+<details>
+<summary>19. Refs </summary>
+
+# Refs
+
+[https://github.com/omeatai/src-react-typescript/commit/b7b8da151672059cbb173c5b89b4f0e7e6825ad0](https://github.com/omeatai/src-react-typescript/commit/b7b8da151672059cbb173c5b89b4f0e7e6825ad0)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/abd441bf-fb1f-4ad8-a17d-14aefaadb16b">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/c98089c1-a0ae-4706-9b79-1ceb93fa2eb9">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/37a4af97-928d-456b-a854-4299e4618311">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/310f6c0e-689c-41cc-9ba0-a02e2f36ca96">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/2079c760-294e-4e28-a34c-9552dd54c489">
+
+# #END</details>
+
+<details>
+<summary>20. Forwarding Refs </summary>
+
+# Forwarding Refs
+
 ```ts
 
 ```
