@@ -240,9 +240,9 @@ npm start
 # #END</details>
 
 <details>
-<summary>19. Refs </summary>
+<summary>19. React Refs </summary>
 
-# Refs
+# React Refs
 
 [https://github.com/omeatai/src-react-typescript/commit/b7b8da151672059cbb173c5b89b4f0e7e6825ad0](https://github.com/omeatai/src-react-typescript/commit/b7b8da151672059cbb173c5b89b4f0e7e6825ad0)
 
@@ -255,9 +255,23 @@ npm start
 # #END</details>
 
 <details>
-<summary>20. Forwarding Refs </summary>
+<summary>20. React Forwarding Refs </summary>
 
-# Forwarding Refs
+# React Forwarding Refs
+
+[https://github.com/omeatai/src-react-typescript/commit/9b1b918dcc5178ffe7a86220bccd817287a18e24](https://github.com/omeatai/src-react-typescript/commit/9b1b918dcc5178ffe7a86220bccd817287a18e24)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/9d0b73d0-f5f9-430b-911f-b7327f89016c">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/8004e158-5dab-4173-b4c6-3324098d8fd0">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/7ad97426-601b-44a5-b6fb-e411fe44fabe">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/bbdc33df-5da5-4939-956a-0e066e4cb747">
+
+# #END</details>
+
+<details>
+<summary>21. React Portals </summary>
+
+# React Portals 
 
 ```ts
 
