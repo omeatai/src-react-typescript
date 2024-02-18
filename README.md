@@ -287,6 +287,27 @@ npm start
 
 # React Error Boundary
 
+[https://github.com/omeatai/src-react-typescript/commit/d08bd27bdfc6061ff1606bf57181c4b23c015ff7](https://github.com/omeatai/src-react-typescript/commit/d08bd27bdfc6061ff1606bf57181c4b23c015ff7)
+
+- A class component that implements either one or both of the lifecycle methods getDerivedStateFromError or componentDidCatch becomes an error boundary.
+- The static method getDerivedState From Error method is used to render a fallback UI after an error is thrown and the component DidCatch method is used to log the error information.
+- The placement of the Error Boundary also matters as it controls if the entire app should have the fall-back UI or just the component causing the problem.
+- Provide a way to gracefully handle error in application code.
+
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/90fadf59-9c47-4106-b1dd-21bbb6ca797a">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/e66c4aa0-adab-444a-a4a5-8c2646ee8432">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/b2aee751-4776-47c7-9fc0-bb13454efb04">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/774256b5-c707-43ee-9511-7f789b80ba8f">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/a270fd2a-59fd-4ca0-bf23-4fccf27f95fb">
+<img width="1350" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/5384429f-debd-4ecb-8cf1-e016542b754a">
+
+# #END</details>
+
+<details>
+<summary>23. React </summary>
+
+# React
+
 ```ts
 
 ```
