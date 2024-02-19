@@ -319,9 +319,9 @@ npm start
 # #END</details>
 
 <details>
-<summary>24. React Render Props </summary>
+<summary>24. React Context </summary>
 
-# React Render Props
+# React Context
 
 ```ts
 
