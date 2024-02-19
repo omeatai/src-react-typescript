@@ -304,9 +304,24 @@ npm start
 # #END</details>
 
 <details>
-<summary>23. React </summary>
+<summary>23. React Higher Order Components </summary>
 
-# React
+# React Higher Order Components
+
+[https://github.com/omeatai/src-react-typescript/commit/679b93e0bd3c04e27f4b386f5433f35960031e8e](https://github.com/omeatai/src-react-typescript/commit/679b93e0bd3c04e27f4b386f5433f35960031e8e)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/87d64988-e6e9-468c-993c-3e63f35d7c2b">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/a5874b33-db05-4c0a-b2f1-e982cf2c0b72">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/371548df-1ecb-4eb9-8d57-0a1b36eedfa7">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/340e4ab0-f5ca-4ee1-99c5-85b3bab12538">
+<img width="1336" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/e381a4ed-cc00-4831-b238-c99f3516ebf3">
+
+# #END</details>
+
+<details>
+<summary>24. React Context </summary>
+
+# React Context
 
 ```ts
 
