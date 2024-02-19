@@ -1,12 +1,13 @@
 import "./App.css";
-import ClickCounter from "./components/ClickCounter";
-import HoverCounter from "./components/HoverCounter";
+import { UserProvider } from "./contexts/userContext";
+import ComponentC from "./components/ComponentC";
 
 function App() {
   return (
     <div className="App">
-      <ClickCounter />
-      <HoverCounter />
+      <UserProvider value="Vishwas">
+        <ComponentC />
+      </UserProvider>
     </div>
   );
 }
