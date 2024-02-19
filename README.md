@@ -319,9 +319,27 @@ npm start
 # #END</details>
 
 <details>
-<summary>24. React Context </summary>
+<summary>24. Class Component - React Context </summary>
 
-# React Context
+# Class Component - React Context
+
+[https://github.com/omeatai/src-react-typescript/commit/e430b220ce255655f8f67506218407248b82a10b](https://github.com/omeatai/src-react-typescript/commit/e430b220ce255655f8f67506218407248b82a10b)
+
+- Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/cdf2ba32-9a3d-4460-b676-7535a35cb690">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/3f1206fb-6e8e-4f3a-83b3-af70610f00ad">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/8767026c-da44-4200-ad1f-7c28dd0c5a79">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/495b00a6-471f-4f97-b3fc-b264d7b2f138">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/4c50e1c6-33fb-4ee7-824b-058eb33fe8ee">
+<img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/dff2bf23-821d-4f70-917e-f6e2e0668d20">
+
+# #END</details>
+
+<details>
+<summary>25. React HTTP </summary>
+
+# React HTTP
 
 ```ts
 
