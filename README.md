@@ -341,9 +341,18 @@ npm start
 
 # React HTTP
 
-```ts
+# Install Axios
 
+```ts
+npm install axios
+yarn add axios
 ```
+
+<img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/885e477d-d890-4e35-8e47-ec359c2d042a">
+<img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/70038a37-b528-4d51-9085-b524f507d914">
+<img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/372d038d-84c7-4e9a-892b-0c540da9f6a1">
+<img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/3d5a9b89-90bb-4e89-b45f-a9ee71c7416c">
+
 
 ```ts
 
