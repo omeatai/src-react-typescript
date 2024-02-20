@@ -337,9 +337,11 @@ npm start
 # #END</details>
 
 <details>
-<summary>25. React HTTP </summary>
+<summary>25. React HTTP - GET </summary>
 
-# React HTTP
+# React HTTP - GET 
+
+[https://github.com/omeatai/src-react-typescript/commit/1dfbd70da58cc05282ca49cf38c6adee59114ce9](https://github.com/omeatai/src-react-typescript/commit/1dfbd70da58cc05282ca49cf38c6adee59114ce9)
 
 # Install Axios
 
@@ -352,7 +354,16 @@ yarn add axios
 <img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/70038a37-b528-4d51-9085-b524f507d914">
 <img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/372d038d-84c7-4e9a-892b-0c540da9f6a1">
 <img width="1307" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/3d5a9b89-90bb-4e89-b45f-a9ee71c7416c">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/e5f154f8-703a-4229-8c53-83ffcc723685">
+<img width="1255" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/2ea89573-fbbf-429d-beaf-1752b649dbac">
+<img width="1424" alt="image" src="https://github.com/omeatai/src-react-typescript/assets/32337103/6ac799a5-c256-4254-846f-522b97f74c86">
 
+# #END</details>
+
+<details>
+<summary>26. React HTTP - POST </summary>
+
+# React HTTP - POST 
 
 ```ts
 
