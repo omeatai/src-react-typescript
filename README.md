@@ -343,6 +343,8 @@ npm start
 
 [https://github.com/omeatai/src-react-typescript/commit/1dfbd70da58cc05282ca49cf38c6adee59114ce9](https://github.com/omeatai/src-react-typescript/commit/1dfbd70da58cc05282ca49cf38c6adee59114ce9)
 
+[https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
+
 # Install Axios
 
 ```ts
